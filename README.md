@@ -1,6 +1,6 @@
 # Linux Basics Assignment
 
-## Student Information
+
 - Name: Tanwistha Guha
 - Project: Linux Basics
 - Environment: Ubuntu on Windows Subsystem for Linux (WSL)
@@ -80,4 +80,4 @@ commands, file operations, text utilities, downloading files,
 permissions, environment variables, and ZIP archives.
 
 ## GitHub Repository
-Add your GitHub repository URL here after uploading the project.
+https://github.com/tanwistha2010/Linux_Basics_Tanwistha
